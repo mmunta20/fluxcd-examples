@@ -1,7 +1,7 @@
 namespace: prod
 namePrefix: app-
 images:
-  - name: nginx
-    newTag: 1.8.0
+  - name: httpd
+    newTag: 2.4.62
 resources:
   - ./../base
