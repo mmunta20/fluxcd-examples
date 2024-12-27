@@ -1,8 +1,8 @@
 namespace: prod
 namePrefix: web-
 images:
-  - name: httpd
-    newName: apache
-    newTag: latest
+  - name: postgres
+    newName: my-registry/my-postgres
+    newTag: v1
 resources:
   - ./../base
