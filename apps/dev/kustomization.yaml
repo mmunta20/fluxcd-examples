@@ -1,6 +1,6 @@
 namespace: prod
 namePrefix: web-
-replicas: 4
+images: 4
 
 resources:
   - ./../base
