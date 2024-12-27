@@ -1,5 +1,5 @@
 namespace: prod
-namePrefix: web-
+namePrefix: app-
 images:
   - name: postgres
     newName: my-registry/my-postgres
