@@ -1,6 +1,6 @@
 namespace: prod
 namePrefix: web-
-images: 4
+image: httpd
 
 resources:
   - ./../base
