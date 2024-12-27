@@ -1,5 +1,5 @@
 namespace: live
-nameprefix: web-
+namePrefix: web-
 
 resources:
   - ./../base
