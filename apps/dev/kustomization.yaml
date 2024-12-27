@@ -1,4 +1,4 @@
-namespace: prod
+namespace: live
 
 resources:
   - ./../base
