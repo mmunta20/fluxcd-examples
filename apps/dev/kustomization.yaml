@@ -1,8 +1,7 @@
 namespace: prod
 namePrefix: app-
 images:
-  - name: postgres
-    newName: my-registry/my-postgres
-    newTag: v1
+  - name: nginx
+    newTag: 1.8.0
 resources:
   - ./../base
