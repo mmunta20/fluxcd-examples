@@ -1,3 +1,4 @@
+namespace: dev
 resources:
   - deployment.yaml
   - service.yaml
