@@ -1,6 +1,9 @@
 namespace: prod
 namePrefix: web-
-image: httpd
+images:
+  - name: httpd
+    newName: httpd
+    newTag: latest
 
 resources:
   - ./../base
