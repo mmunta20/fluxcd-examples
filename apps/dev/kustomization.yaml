@@ -2,4 +2,4 @@ namespace: live
 namePrefix: web-
 
 resources:
-  - ./../base
+  - ./../base/kustomization.yaml
