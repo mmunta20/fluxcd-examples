@@ -2,6 +2,7 @@ namespace: prod
 namePrefix: web-
 images:
   - name: httpd
+    newName: apache
     newTag: latest
 resources:
   - ./../base
