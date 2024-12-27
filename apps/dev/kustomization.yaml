@@ -1,5 +1,4 @@
-metadata:
-  name: nginx
+name: nginx
 namespace: prod
 namePrefix: app-
 images:
