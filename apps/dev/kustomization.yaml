@@ -2,6 +2,6 @@ namespace: prod
 namePrefix: app-
 images:
   - name: nginx
-    newTag: 1.27
+    newTag: 1.27.3
 resources:
   - ./../base
