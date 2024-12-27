@@ -1,1 +1,0 @@
-Flag --validation has been deprecated, this arg is no longer used, all resources are validated using server-side apply dry-run
