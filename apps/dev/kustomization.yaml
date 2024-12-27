@@ -1,4 +1,2 @@
-namespace: flux-demo
-
 resources:
   - ./../base
